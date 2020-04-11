@@ -39,12 +39,12 @@ body {
 
 .player-0-panel,
 .player-1-panel {
-    width: 50%;
-    float: left;
-    height: 600px;
-    padding: 100px;
+    padding: 6rem;
 }
 
+button:focus{
+    outline:none !important;
+}
 
 
 /**********************************************
